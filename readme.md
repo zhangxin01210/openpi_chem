@@ -5,8 +5,10 @@
    + 双臂训练：
      + openpi/src/openpi/policies/chem_policy.py：![alt text](./assets/dual_policy_input.png)
      ![alt text](./assets/dual_policy_output.png)
+     + openpi/src/openpi/training/config.py:![alt text](./assets/config_left.png)
    + 单臂训练：
      + openpi/src/openpi/policies/chem_policy.py：![alt text](./assets/right_policy_input.png)![alt text](./assets/right_policy_output.png)
+     + openpi/src/openpi/training/config.py:!![alt text](./assets/config_no_left.png)
   
 2. 训练参数修改：![alt text](./assets/config.png)
 3. 计算归一化参数以及训练
